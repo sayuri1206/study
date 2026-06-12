@@ -70,6 +70,6 @@ FPや簿記等他の資格への対応
 　他のドメインに対しても汎用性が高い
   
 2026/06/12
-[202606012.pptx](https://github.com/user-attachments/files/28862127/202606012.pptx)
+[202606012.pptx](https://github.com/user-attachments/files/28862127/202606012.pptx)  
 四者択一の自動問題作成(AQG)を行った
 
