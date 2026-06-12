@@ -59,7 +59,7 @@ FPや簿記等他の資格への対応
 [20260529.pptx](https://github.com/user-attachments/files/28794242/20260529.pptx)
 
 2026/06/05
-[20260605.pptx](https://github.com/user-attachments/files/28794260/20260605.pptx)
+[20260605.pptx](https://github.com/user-attachments/files/28794260/20260605.pptx)  
 基本情報技術者試験の過去問14年分から問題種類を精査  
 **知識確認型**  
 計算型  
