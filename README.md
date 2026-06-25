@@ -76,7 +76,7 @@ FPや簿記等他の資格への対応
 次回までに行うこと：LLMにプロンプトを作成させる
 
 2026/06/19
-[202606019.pptx](https://github.com/user-attachments/files/29279141/202606019.pptx)
+[202606019.pptx](https://github.com/user-attachments/files/29279141/202606019.pptx)  
 LLM(ChatGPT)に基本情報技術者試験の過去問を読み込ませてAQGのプロンプトを作成した
 
 few-shot：いくつか例を提示
