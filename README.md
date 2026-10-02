@@ -88,6 +88,33 @@ few-shot：いくつか例を提示
 案  
 問題生成を行うLLMを作成  
 問題精査を行うLLMを作成  
-→最終的に基本情報技術者試験の過去問を正しく選別できたかで定量的評価が可能
+→最終的に基本情報技術者試験の過去問を正しく選別できたかで定量的評価が可能  
+
+2026/06/26
+[20260626.pptx](https://github.com/user-attachments/files/32940245/20260626.pptx)
+
+2026/07/03  
+[20260703.pptx](https://github.com/user-attachments/files/32940262/20260703.pptx)
+
+2026/07/10  
+[20260710.pptx](https://github.com/user-attachments/files/32940270/20260710.pptx)
+
+2026/07/17  
+[20260717.pptx](https://github.com/user-attachments/files/32940275/20260717.pptx)
+
+2026/08/07
+[20260807.pptx](https://github.com/user-attachments/files/32940290/20260807.pptx)
+
+2026/08/28  
+[20260828.pptx](https://github.com/user-attachments/files/32940304/20260828.pptx)
+
+2026/09/25  
+[20260925.pptx](https://github.com/user-attachments/files/32940306/20260925.pptx)
+
+2026/10/02  
+[20261002.pptx](https://github.com/user-attachments/files/32940309/20261002.pptx)
+
+
+  
 
 
