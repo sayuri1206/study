@@ -109,7 +109,7 @@ few-shot：いくつか例を提示
 [20260828.pptx](https://github.com/user-attachments/files/32940304/20260828.pptx)
 
 2026/09/25  
-[20260925.pptx](https://github.com/user-attachments/files/32940306/20260925.pptx)
+[20260925.pptx](https://github.com/user-attachments/files/32940306/20260925.pptx)  
 AQGからクレンジングしたデータを保存中  
 →ファインチューニング予定  
 
