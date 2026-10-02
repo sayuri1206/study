@@ -120,7 +120,7 @@ AQGからクレンジングしたデータを保存中
 4. 1：1で作成したデータ  
 
 2026/10/02  
-[20261002.pptx](https://github.com/user-attachments/files/32940309/20261002.pptx)  
+[20261002.pptx](https://github.com/user-attachments/files/32940992/20261002.pptx)  
 継続してAQGからクレンジングしたデータを保存中
 
   
