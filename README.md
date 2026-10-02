@@ -102,7 +102,7 @@ few-shot：いくつか例を提示
 2026/07/17  
 [20260717.pptx](https://github.com/user-attachments/files/32940275/20260717.pptx)
 
-2026/08/07
+2026/08/07  
 [20260807.pptx](https://github.com/user-attachments/files/32940290/20260807.pptx)
 
 2026/08/28  
