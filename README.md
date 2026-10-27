@@ -123,6 +123,17 @@ AQGからクレンジングしたデータを保存中
 [20261002.pptx](https://github.com/user-attachments/files/32940992/20261002.pptx)  
 継続してAQGからクレンジングしたデータを保存中
 
-  
+2026/10/09
+[20261009.pptx](https://github.com/user-attachments/files/33991807/20261009.pptx)
+中間発表練習  
+
+2026/10/16
+中間発表練習  
+
+2026/10/23
+[中間発表振り返り.pptx](https://github.com/user-attachments/files/33991823/default.pptx)
+中間発表質問回答  
+
+2026/10/30
 
 
