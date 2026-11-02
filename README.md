@@ -47,6 +47,7 @@ all_part_20261003.py：単語と説明のファイルかファインチューニ
 reviewed_json_to_alpaca.py：↑生成した問題をalpaca形式のファンチューニングできるようよう整形  
 count_alpaca_terms.py：↑の確認用  
 train_qwen_lora.py：モデルのファインチューニングを行う  
+Inference_0918.py：問題生成  
 test_questions_1013.py：問題生成最終チェック用
 
 # file
