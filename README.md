@@ -148,8 +148,8 @@ AQGからクレンジングしたデータを保存中
 [中間発表振り返り.pptx](https://github.com/user-attachments/files/33991823/default.pptx)
 中間発表質問回答  
 
-2026/10/30
-reviewed_json_to_alpaca_1030.py
+2026/10/30  
+reviewed_json_to_alpaca_1030.py  
 整形前  
 用語,要約,問題,A(文章),B(文章),C(文章),D(文章),答え(記号),説明,拒否か採用か,理由,jsonエラーかどうか,生出力,inputトークン数,outputトークン数,類似度  
 整形後  
