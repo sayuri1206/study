@@ -34,7 +34,21 @@
 FPや簿記等他の資格への対応  
 初等教育への対応　
 
+# 使い方
+データ  
+results_find_1.csv：すべてのデータ(用語,説明)
+data_list.csv：データのリスト(総個数,用語,...)  
+testdata_60.csv：テストデータ(用語,説明)  
 
+データ取得  
+GetWiki.py：手動収集時補助的利用  
+
+ファインチューニング用問題生成  
+all_part_20261003.py：単語と説明のファイルかファインチューニング用問題生成  
+reviewed_json_to_alpaca.py：↑生成した問題をalpaca形式のファンチューニングできるようよう整形  
+count_alpaca_terms.py：↑の確認用  
+train_qwen_lora.py：モデルのファインチューニングを行う  
+test_questions_1013.py：問題生成最終チェック用
 
 # file
 2026/04/08
