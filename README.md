@@ -1,4 +1,3 @@
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/fc17246b-9a67-4f51-b5d4-d4f3e47e6256" /># study
 ### <卒業研究の説明>
 背景：私自身が基本情報技術者試験を受験した際、シラバス改定などに伴う新出単語を十分に学べる教材が不足していることに問題意識を持ちました。日々更新されるIT技術の学習においては、正しい知識を迅速に提供することが求められるため、新たな学習教材には情報の「正確性」と対応の「即時性」を両立させることが不可欠であると考えています。  
 目的：学習者が新出単語を効果的に学習できるようにすること  
@@ -161,5 +160,5 @@ B. [B]\n
 C. [C]\n
 D. [D]\n
 正解：[正解の記号の文章]"
-
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/fc17246b-9a67-4f51-b5d4-d4f3e47e6256" />
 
