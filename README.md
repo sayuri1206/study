@@ -163,3 +163,15 @@ D. [D]\n
 正解：[正解の記号の文章]"
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/fc17246b-9a67-4f51-b5d4-d4f3e47e6256" />
 
+正解：
+〇〇
+3
+文章が少し変わっている
+7
+(生が中国語)
+4
+？
+1
+意味があっていない
+1
+
