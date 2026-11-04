@@ -162,7 +162,7 @@ C. [C]\n
 D. [D]\n
 正解：[正解の記号の文章]"
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/fc17246b-9a67-4f51-b5d4-d4f3e47e6256" />
-16件に回答なし
+16件に回答なしInference_0918.py
 正解：
 〇〇
 3
@@ -175,6 +175,6 @@ D. [D]\n
 意味があっていない
 1
 
-11件に回答なし
+11件に回答なしInference_1103.py
 (生生成が中国語)
 文章が少し変わっている
