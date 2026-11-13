@@ -177,4 +177,22 @@ D. [D]\n
 
 11件に回答なしInference_1103.py
 (生生成が中国語)
-文章が少し変わっている
+文章が少し変わっている  
+
+2026/11/6
+[20261106.pptx](https://github.com/user-attachments/files/34778087/20261106.pptx)  
+
+2026/11/13  
+[20261113.pptx](https://github.com/user-attachments/files/34778098/20261113.pptx)
+LLMのハイパーパラメータの検証  
+temperature：ランダム性 
+top-P：累積確率
+
+結果  
+temperatureは効果あり、top-pはそこまで効果が見られなかった  
+
+次回  
+systempromptの調整  
+過去問のデータ整形
+
+
