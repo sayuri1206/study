@@ -35,7 +35,7 @@ FPや簿記等他の資格への対応
 
 # 使い方
 ### データ  
-results_find_1.csv：すべてのデータ(用語,説明)
+results_find_1.csv：すべてのデータ(用語,説明)  
 data_list.csv：データのリスト(総個数,用語,...)  
 testdata_60.csv：テストデータ(用語,説明)  
 
