@@ -183,7 +183,7 @@ D. [D]\n
 [20261106.pptx](https://github.com/user-attachments/files/34778087/20261106.pptx)  
 
 2026/11/13  
-[20261113.pptx](https://github.com/user-attachments/files/34778098/20261113.pptx)
+[20261113.pptx](https://github.com/user-attachments/files/34778098/20261113.pptx)  
 LLMのハイパーパラメータの検証  
 temperature：ランダム性 
 top-P：累積確率
