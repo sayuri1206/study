@@ -41,6 +41,8 @@ testdata_60.csv：テストデータ(用語,説明)
 
 ### データ取得  
 GetWiki.py：手動収集時補助的利用  
+extract_questions_before2019.py：基本情報技術者試験の過去問からデータ収集(光学文字認識OCRのため不完全、データにするには手動)  
+extract_questions_after2023.py：基本情報技術者試験の過去問からデータ収集
 
 ### ファインチューニング用問題生成  
 all_part_.py：単語と説明のファイルかファインチューニング用問題生成  
