@@ -62,7 +62,7 @@ test_questions_.py：問題生成最終チェック用(評価)
 ・LLM内  
   few-shot  
   例の提示  
-  systemprompt・userprompt
+  systemprompt・userprompt  
 〇人による評価
   
 
