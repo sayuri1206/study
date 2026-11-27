@@ -52,7 +52,7 @@ train_qwen_lora.py：モデルのファインチューニングを行う
 Inference_.py：問題生成  
 test_questions_.py：問題生成最終チェック用
 
-###メモ  
+### メモ  
 [数値]  
 ・QwenのAQGの限界  
 ・top-P・temperature  
