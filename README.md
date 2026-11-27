@@ -52,6 +52,17 @@ train_qwen_lora.py：モデルのファインチューニングを行う
 Inference_.py：問題生成  
 test_questions_.py：問題生成最終チェック用
 
+###メモ  
+[数値]  
+・QwenのAQGの限界  
+・top-P・temperature  
+[数値なし]  
+・LLM内  
+  few-shot  
+  例の提示  
+  systemprompt・userprompt  
+  
+
 # file
 2026/04/08
 [20260408.pptx](https://github.com/user-attachments/files/28794144/20260408.pptx)
@@ -213,9 +224,4 @@ EasyOCRで認識されていない文字がある
 Q.過去問の抽出は卒論に関係ないので、手で抽出すれば良い？？  
 A.ダウンロードしたものをgoogleドライブで保存、googleドキュメントで開く、メモにコピーペースト  
 
-
-
-
-
-
-
+2026/11/27
