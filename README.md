@@ -50,17 +50,20 @@ reviewed_json_to_alpaca.py：↑生成した問題をalpaca形式のファンチ
 count_alpaca_terms.py：↑の確認用  
 train_qwen_lora.py：モデルのファインチューニングを行う  
 Inference_.py：問題生成  
-test_questions_.py：問題生成最終チェック用
+test_questions_.py：問題生成最終チェック用(評価)
 
 ### メモ  
 [数値]  
 ・QwenのAQGの限界  
-・top-P・temperature  
+・top-P・temperatureの実験  
+〇添削(評価)ファイルでの結果
+
 [数値なし]  
 ・LLM内  
   few-shot  
   例の提示  
-  systemprompt・userprompt  
+  systemprompt・userprompt
+〇人による評価
   
 
 # file
